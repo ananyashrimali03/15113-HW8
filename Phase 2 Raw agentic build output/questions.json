@@ -1,0 +1,194 @@
+{
+  "questions": [
+    {
+      "question": "How many types of MBTI are there?",
+      "type": "multiple_choice",
+      "options": ["4", "8", "12", "16"],
+      "answer": "16",
+      "category": "MBTI Basics"
+    },
+    {
+      "question": "What does the letter 'E' stand for in MBTI?",
+      "type": "multiple_choice",
+      "options": ["Empathy", "Extraversion", "Emotion", "Energy"],
+      "answer": "Extraversion",
+      "category": "MBTI Basics"
+    },
+    {
+      "question": "Which of the following is a valid MBTI type?",
+      "type": "multiple_choice",
+      "options": ["INTX", "ENFP", "ABCD", "MBTZ"],
+      "answer": "ENFP",
+      "category": "MBTI Basics"
+    },
+    {
+      "question": "What does the letter 'N' represent in MBTI type codes such as INTJ?",
+      "type": "short_answer",
+      "answer": "Intuition",
+      "category": "MBTI Basics"
+    },
+    {
+      "question": "True or False: The MBTI framework consists of four dichotomies.",
+      "type": "true_false",
+      "answer": "true",
+      "category": "MBTI Basics"
+    },
+    {
+      "question": "How many types of cognitive functions are there?",
+      "type": "multiple_choice",
+      "options": ["4", "8", "12", "16"],
+      "answer": "8",
+      "category": "Cognitive Functions"
+    },
+    {
+      "question": "What is the dominant cognitive function of an INFP?",
+      "type": "multiple_choice",
+      "options": ["Extraverted Feeling", "Introverted Feeling", "Extraverted Intuition", "Introverted Intuition"],
+      "answer": "Introverted Feeling",
+      "category": "Cognitive Functions"
+    },
+    {
+      "question": "Which cognitive function is associated with organizing and structuring the external world?",
+      "type": "multiple_choice",
+      "options": ["Ti", "Te", "Fi", "Fe"],
+      "answer": "Te",
+      "category": "Cognitive Functions"
+    },
+    {
+      "question": "True or False: Introverted and extraverted versions of the same cognitive function operate identically.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "Cognitive Functions"
+    },
+    {
+      "question": "What is the term for the least developed cognitive function in a type's function stack?",
+      "type": "short_answer",
+      "answer": "Inferior",
+      "category": "Cognitive Functions"
+    },
+    {
+      "question": "What's the MBTI type most commonly stereotyped as the highly logical, unyielding 'Mastermind' or 'Architect'?",
+      "type": "short_answer",
+      "answer": "INTJ",
+      "category": "Stereotypes"
+    },
+    {
+      "question": "Which MBTI type is often stereotyped as the 'life of the party'?",
+      "type": "multiple_choice",
+      "options": ["INTJ", "ESFP", "ISTJ", "INFP"],
+      "answer": "ESFP",
+      "category": "Stereotypes"
+    },
+    {
+      "question": "Which type is commonly stereotyped as the 'healer' or 'mediator'?",
+      "type": "multiple_choice",
+      "options": ["ENFJ", "ENTJ", "INFP", "ISTP"],
+      "answer": "INFP",
+      "category": "Stereotypes"
+    },
+    {
+      "question": "True or False: The stereotype that all Thinking types lack empathy is accurate.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "Stereotypes"
+    },
+    {
+      "question": "Which type is often called the 'debater' who loves intellectual arguments?",
+      "type": "multiple_choice",
+      "options": ["ENTP", "ISFJ", "ESFJ", "ISTP"],
+      "answer": "ENTP",
+      "category": "Stereotypes"
+    },
+    {
+      "question": "Which MBTI dichotomy best dictates behavioral responses to schedules, deadlines, and external organization?",
+      "type": "multiple_choice",
+      "options": [
+        "Introversion (I) vs. Extraversion (E)",
+        "Sensing (S) vs. Intuition (N)",
+        "Thinking (T) vs. Feeling (F)",
+        "Judging (J) vs. Perceiving (P)"
+      ],
+      "answer": "Judging (J) vs. Perceiving (P)",
+      "category": "MBTI Behaviors"
+    },
+    {
+      "question": "A person who focuses on the big picture and future possibilities likely prefers which trait?",
+      "type": "multiple_choice",
+      "options": ["Sensing", "Intuition", "Thinking", "Feeling"],
+      "answer": "Intuition",
+      "category": "MBTI Behaviors"
+    },
+    {
+      "question": "Which behavior is most associated with the Feeling preference?",
+      "type": "multiple_choice",
+      "options": [
+        "Systematic analysis",
+        "Objective decision-making",
+        "Considering others' emotions when deciding",
+        "Following strict logical rules"
+      ],
+      "answer": "Considering others' emotions when deciding",
+      "category": "MBTI Behaviors"
+    },
+    {
+      "question": "True or False: Judging types are always judgmental of others.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "MBTI Behaviors"
+    },
+    {
+      "question": "What letter in MBTI represents a preference for structure and decisiveness?",
+      "type": "short_answer",
+      "answer": "J",
+      "category": "MBTI Behaviors"
+    },
+    {
+      "question": "True or False: When observing someone's traits, you can confidently identify an 'Extravert' (E) purely by how talkative and socially outgoing they are, regardless of how they recharge their energy.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "Traits to Look For"
+    },
+    {
+      "question": "Which observable trait is most useful for distinguishing a Sensing type from an Intuitive type?",
+      "type": "multiple_choice",
+      "options": [
+        "How loudly they speak",
+        "Focus on concrete details vs. abstract patterns",
+        "Whether they smile often",
+        "How quickly they make decisions"
+      ],
+      "answer": "Focus on concrete details vs. abstract patterns",
+      "category": "Traits to Look For"
+    },
+    {
+      "question": "True or False: Someone who enjoys public speaking cannot be an Introvert.",
+      "type": "true_false",
+      "answer": "false",
+      "category": "Traits to Look For"
+    },
+    {
+      "question": "When trying to identify a Perceiving type, which behavior is most telling?",
+      "type": "multiple_choice",
+      "options": [
+        "Preferring firm deadlines",
+        "Enjoying spontaneous plans",
+        "Following rigid routines",
+        "Making quick final decisions"
+      ],
+      "answer": "Enjoying spontaneous plans",
+      "category": "Traits to Look For"
+    },
+    {
+      "question": "What is the most reliable way to identify someone's MBTI type through observation?",
+      "type": "multiple_choice",
+      "options": [
+        "Asking them one question",
+        "Observing them over time in different situations",
+        "Judging by their appearance",
+        "Looking at their social media profile"
+      ],
+      "answer": "Observing them over time in different situations",
+      "category": "Traits to Look For"
+    }
+  ]
+}
