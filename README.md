@@ -1,4 +1,3 @@
-# 15113-HW8
 # MBTI Theory Quiz
 
 A terminal-based quiz app that helps you learn to identify people's MBTI personality types. Work through sections covering MBTI basics, cognitive functions, stereotypes, behaviors, and observable traits — then get personalized tips based on your own type.
