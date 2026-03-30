@@ -1,6 +1,7 @@
 # MBTI Theory Quiz
 
 A terminal-based quiz app that helps you learn to identify people's MBTI personality types. Work through sections covering MBTI basics, cognitive functions, stereotypes, behaviors, and observable traits — then get personalized tips based on your own type.
+
 Apart from the main reviewer, I used three specific agents to review.
 
 ## Requirements
